@@ -1,0 +1,9 @@
+html {
+    background-color: grey;
+}
+
+.other {
+    display: block;
+    width: 200px;
+    height: 150px;
+}
